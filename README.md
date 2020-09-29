@@ -13,3 +13,11 @@ travail : resultat de l'operation des differentes variables
 en rajoutant la ligne il y a une erreur du au fait que dans la nouvelle operation il y a une variable que l'on a ni defini ni assignee une valeur, la variable" number_of_minutes_in_an_hour"
 
 
+exo_07
+
+gets: demande a l'utilisateur de rentrer quelquechose
+chomp: enleve le saut de ligne qui se rajoute systemqtiquement ares un gets
+
+l'exercice 7a demande un pseudo et l'affiche après.
+l'exercice 7b fais la même chose mais indique la zone de saisie par un "> ".
+l'exercice 7c ne demande rien a l'utilisateur mais permet de saisir un nom, prenom ou autre valeur puis la ressort.
